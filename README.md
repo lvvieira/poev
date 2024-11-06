@@ -27,9 +27,40 @@ Este projeto é desenvolvido utilizando o framework **Django**, com o banco de d
 
 ```plaintext
 poev/
-├── users/                # Módulo para gestão de usuários (login, registro)
-├── jobs/                 # Módulo para criação e gestão de vagas de emprego
-├── static/               # Arquivos estáticos (CSS, JS, imagens)
-├── templates/            # Templates HTML para as páginas do site
-├── poev/                 # Configurações principais do projeto Django
+├── usuarios/                  # Módulo para gestão de usuários (login, registro)
+├── cadastros/                 # Módulo para criação e gestão de vagas de emprego
+├── paginas/                   # Arquivos estáticos (CSS, JS, imagens)
+├── poev/                      # Configurações principais do projeto Django
+├── static/                   # Arquivos estáticos (CSS, JS, imagens)
+├── usuarios/                 # Módulo para gestão de usuários (login, registro)
+
 └── README.md             # Documentação do projeto
+```
+
+## 📝 Funcionalidades Principais
+Cadastro e Login de usuários (candidatos e empresas)
+Postagem de Vagas por empresas e painel para gerenciá-las
+Busca e Filtros para facilitar o acesso às vagas
+Sistema de Notificações para novos anúncios de vagas
+Autenticação com segurança e proteção de dados
+
+
+## 🛠️ Pré-requisitos
+Certifique-se de ter o seguinte instalado:
+
+Python 3.8+
+PostgreSQL
+Git
+Virtualenv (opcional, mas recomendado)
+
+
+## 🛡️ Licença
+Este projeto está licenciado sob a MIT License.
+
+
+## 📬 Contato
+Para mais informações, entre em contato:
+
+Desenvolvedor: Lucas Vasconcelos Vieira
+Email: poev@poev.com.br / lucas@lvvieira.com
+LinkedIn: LinkedIn Perfil
