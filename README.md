@@ -7,7 +7,7 @@
 
 **POEV** é um portal de oportunidades de estágio e empregos que conecta alunos e empresas em busca de talentos. O objetivo é criar uma plataforma que facilite o processo de recrutamento para empresas e amplie as chances dos estudantes e profissionais em início de carreira.
 
-Este projeto faz parte de um **Projeto Integrado** da Univesp que visa unir conhecimentos de várias disciplinas para a criação de uma solução web completa, desde o desenvolvimento backend até a interface de usuário e a integração com banco de dados e serviços de segurança.
+Este projeto faz parte do **Projeto Integrador 2** da Univesp que visa unir conhecimentos de várias disciplinas para a criação de uma solução web completa, desde o desenvolvimento backend até a interface de usuário e a integração com banco de dados e serviços de segurança.
 
 Este projeto é desenvolvido utilizando o framework **Django**, com o banco de dados **PostgreSQL** e está hospedado em um **VPS** com integração SSL para segurança. No futuro, ele será expandido para incluir funcionalidades como filtro por localidade, categorias de vagas e notificações em tempo real.
 
