@@ -1,4 +1,4 @@
-# POEV - Portal de Oportunidades de Estágio e Vagas
+# POEV - Portal de Oportunidades de Empregos de Vinhedo
 
 **Website**: [poev.com.br](https://poev.com.br)  
 **Status**: Em desenvolvimento 🚀
