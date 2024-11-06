@@ -36,6 +36,7 @@ poev/
 
 └── README.md             # Documentação do projeto
 ```
+---
 
 ## 📝 Funcionalidades Principais
 Cadastro e Login de usuários (candidatos e empresas)
@@ -44,6 +45,7 @@ Busca e Filtros para facilitar o acesso às vagas
 Sistema de Notificações para novos anúncios de vagas
 Autenticação com segurança e proteção de dados
 
+---
 
 ## 🛠️ Pré-requisitos
 Certifique-se de ter o seguinte instalado:
@@ -53,10 +55,12 @@ PostgreSQL
 Git
 Virtualenv (opcional, mas recomendado)
 
+---
 
 ## 🛡️ Licença
 Este projeto está licenciado sob a MIT License.
 
+---
 
 ## 📬 Contato
 Para mais informações, entre em contato:
