@@ -34,7 +34,6 @@ poev/
 ├── poev/                      # Configurações principais do projeto Django
 ├── static/                   # Arquivos estáticos (CSS, JS, imagens)
 ├── usuarios/                 # Módulo para gestão de usuários (login, registro)
-
 └── README.md             # Documentação do projeto
 ```
 ---
