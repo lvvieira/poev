@@ -17,10 +17,10 @@ Este projeto é desenvolvido utilizando o framework **Django**, com o banco de d
 - **Django** - Backend robusto e escalável em Python
 - **PostgreSQL** - Banco de dados relacional para armazenamento eficiente
 - **HTML5 & CSS3** - Estrutura e estilo da interface
-- **JavaScript (Vanilla)** - Interatividade básica e funcionalidades front-end
+- **JavaScript** - Interatividade básica e funcionalidades front-end
 - **Nginx** - Servidor web para gerenciar requisições
 - **Certbot com SSL** - Segurança HTTPS para o site
-- **Git & GitHub** - Controle de versão e colaboração
+- **GitHub** - Controle de versão e colaboração
 
 ---
 
@@ -66,7 +66,7 @@ Este projeto está licenciado sob a MIT License.
 ## 📬 Contato
 Para mais informações, entre em contato:
 
-**Desenvolvedor:** Lucas Vasconcelos Vieira
-**Email:** poev@poev.com.br / lucas@lvvieira.com
+**Desenvolvedor:** Alunos da Univesp
+**Email:** poev@poev.com.br
 
 
