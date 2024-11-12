@@ -66,6 +66,7 @@ Este projeto está licenciado sob a MIT License.
 Para mais informações, entre em contato:
 
 **Desenvolvedor:** Alunos da Univesp
+
 **Email:** poev@poev.com.br
 
 
