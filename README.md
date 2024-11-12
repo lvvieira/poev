@@ -28,13 +28,13 @@ Este projeto é desenvolvido utilizando o framework **Django**, com o banco de d
 
 ```plaintext
 poev/
-├── usuarios/                  # Módulo para gestão de usuários (login, registro)
-├── cadastros/                 # Módulo para criação e gestão de vagas de emprego
-├── paginas/                   # Arquivos estáticos (CSS, JS, imagens)
-├── poev/                      # Configurações principais do projeto Django
+├── usuarios/                 # Módulo para gestão de usuários (login, registro)
+├── cadastros/                # Módulo para criação e gestão de vagas de emprego
+├── paginas/                  # Arquivos estáticos (CSS, JS, imagens)
+├── poev/                     # Configurações principais do projeto Django
 ├── static/                   # Arquivos estáticos (CSS, JS, imagens)
 ├── usuarios/                 # Módulo para gestão de usuários (login, registro)
-└── README.md             # Documentação do projeto
+└── README.md                 # Documentação do projeto
 ```
 ---
 
